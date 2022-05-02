@@ -4,6 +4,14 @@ Build your website with this tutorial: [Quickstart for GitHub Pages](https://doc
 
 ***
 
+
+Add photos:
+
+![download-1](https://user-images.githubusercontent.com/104790037/166308334-9f5ab629-88ef-43c6-b08b-200c3d49fe1d.jpg)
+
+
+
+
 You can use the [editor on GitHub](https://github.com/kgdula/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
