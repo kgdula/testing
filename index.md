@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## TUI TA Example 
+
+Build your website with this tutorial: [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart). 
+
+***
 
 You can use the [editor on GitHub](https://github.com/kgdula/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
